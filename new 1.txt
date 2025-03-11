@@ -1,0 +1,24 @@
+SELECT * FROM public.customer
+ORDER BY id ASC 
+
+SELECT * FROM public.item_category
+ORDER BY id ASC 
+
+SELECT * FROM public.item
+ORDER BY id ASC 
+
+SELECT * FROM public.item_brand
+ORDER BY id ASC 
+
+SELECT * FROM public.brand_batch
+ORDER BY id ASC 
+
+SELECT * FROM public.orders
+ORDER BY id ASC 
+
+SELECT * FROM public.order_item
+ORDER BY id ASC 
+
+SELECT * FROM public.payment
+ORDER BY id ASC 
+
